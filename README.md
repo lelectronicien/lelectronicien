@@ -6,7 +6,7 @@
   
 </p>
 
-<h3 align="center">A passionate Front-end developer</h3>
+<h3 align="center">A passionate of technologies</h3>
 <h3 align="center"> currently learning nanoelectronics</h3>
 
 
