@@ -14,8 +14,7 @@
 
 - 🔭 I’m currently looking for a job as **front-end developper.**
 - 🌱 I’m currently learning ... **React.js and Typescritp.js**
-- 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
+- I love ... **Web Develpoment**😄
 - 📫 How to reach me **ricklubin92@gmail.com**
 
 
