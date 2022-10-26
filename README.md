@@ -1,19 +1,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Rick as lelectronicien</h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/rick-tienson-lubin-1b2119182/">
-    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
+    <img src="https://img.shields.io/badge/linkedin-Rick-blue">
   </a>
   
 </p>
 
 <h3 align="center">A passionate front-end developer</h3>
 <h3 align="center">Bachelor in Engineering, nanoelectronics (To be graduated in 2022)</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
+
 
 
 
 - 🔭 I’m currently looking for a job as front-end developper.
-- 🌱 I’m currently learning ... **Django and React.js**
+- 🌱 I’m currently learning ... **React.js and Typescritp.js**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Anime**❤
