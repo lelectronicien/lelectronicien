@@ -38,13 +38,14 @@
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/> 
-	<img style="margin: auto;" src="https://konstantinlebedev.com/static/76d81ec25cd799b15cd16c0b16e869af/cover.png" alt=framer width="60" height="60"/> 
+	<img style="margin: auto;" src="https://konstantinlebedev.com/static/76d81ec25cd799b15cd16c0b16e869af/cover.png" alt=framer width="85" height="60"/> 
 	<img style="margin: auto;" src="https://miro.medium.com/max/636/1*p1TndLk3UsGPBsM7qHPZIw.png" alt=sc width="60" height="60"/> 
 </p>
 
 <h4>Desktop Environment: </h4>
 <p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
+  <img style="margin: auto;" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" alt=slack width="85" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=discord width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
