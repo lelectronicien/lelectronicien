@@ -42,8 +42,10 @@
 
 <h4>Desktop Environment: </h4>
 <p align="left">
-  <img style="margin: auto;" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" alt=slack width="85" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=discord width="60" height="60"/>
+	
+  <img style="margin: auto;" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" alt=discord width="85" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
+<img style="margin: auto;" src="https://w7.pngwing.com/pngs/718/7/png-transparent-user-interface-design-figma-computer-software-user-experience-design-web-design-user-interface-design-logo.png" alt=figma width="80" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
