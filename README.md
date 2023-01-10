@@ -19,42 +19,38 @@
 
 
 <h4>Programming Languages: </h4>
-<p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
-</p>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-
+<div align="left">
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+</div>
 
 <h4>Frameworks: </h4>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-  <img style="margin: auto;" src="https://konstantinlebedev.com/static/76d81ec25cd799b15cd16c0b16e869af/cover.png" alt=framer width="85" height="60"/> 
+<div align="left">
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
+<img style="margin: auto;" src="https://konstantinlebedev.com/static/76d81ec25cd799b15cd16c0b16e869af/cover.png" alt=framer width="85" height="60"/>
+<img style="margin: auto;" src="https://miro.medium.com/max/636/1*p1TndLk3UsGPBsM7qHPZIw.png" alt=sc width="60" height="60"/> 	
+</div>
   
 <h4>Skills and Tools: </h4>
-<p align="left">
+<div align="left">
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="60" height="60"/>
-
-
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
-<img style="margin: auto;" src="https://miro.medium.com/max/636/1*p1TndLk3UsGPBsM7qHPZIw.png" alt=sc width="60" height="60"/> 
-<img style="margin: auto;" src="https://konstantinlebedev.com/static/76d81ec25cd799b15cd16c0b16e869af/cover.png" alt=framer width="85" height="60"/> 
- 	
-</p>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/> 
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="60" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
+</div>
 
 <h4>Desktop Environment: </h4>
-<p align="left">
-	
-  <img style="margin: auto;" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" alt=discord width="85" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
+<div align="left">	
+<img style="margin: auto;" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" alt=discord width="85" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
 <img style="margin: auto;" src="https://w7.pngwing.com/pngs/718/7/png-transparent-user-interface-design-figma-computer-software-user-experience-design-web-design-user-interface-design-logo.png" alt=figma width="80" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
-</p>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+</div>
 
 
