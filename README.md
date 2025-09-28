@@ -7,4 +7,4 @@
 </p>
 
 <h3 align="center">A passionate of technologies</h3>
-<h3 align="center"> Eng. anoelectronics</h3>
+<h3 align="center"> Eng. nanoelectronics</h3>
