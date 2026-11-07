@@ -33,6 +33,5 @@ I'm working toward a career in quantitative trading, combining mathematical reas
 
 - GitHub: https://github.com/lelectronicien
 
----
 
 *Building skills through mathematics, code, and consistent practice.*
