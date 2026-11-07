@@ -1,6 +1,6 @@
 # Hi, I'm Rick 👋
 
-### Information Technology graduate | Aspiring Quantitative Trader
+### Master's Student in Information Technology | Python & Algorithms | Aspiring Quantitative Trader
 
 I'm an graduate student in Information Technology with an interest in quantitative trading, probability, algorithms, and financial markets.
 
