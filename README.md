@@ -15,7 +15,7 @@ I'm developing my mathematical and programming skills to solve problems involvin
 
 ### 🛠️ Technical Skills
 
-- **Languages:** Python
+- **Languages:** Python , C++
 - **Areas of interest:** Algorithms, probability, statistics, and quantitative finance
 
 ### 📚 Currently Learning
